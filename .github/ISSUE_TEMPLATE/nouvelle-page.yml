@@ -1,0 +1,29 @@
+name: Proposer une page
+description: Un sujet qui manque au wiki, à valider avant de l'écrire.
+labels: [nouvelle page]
+body:
+  - type: input
+    id: sujet
+    attributes:
+      label: Sujet
+      placeholder: Les métiers et leurs récompenses
+    validations:
+      required: true
+  - type: input
+    id: section
+    attributes:
+      label: Section envisagée
+      placeholder: Économie et métiers
+  - type: textarea
+    id: contenu
+    attributes:
+      label: Ce que la page expliquerait
+      description: Les grandes parties, en quelques lignes.
+    validations:
+      required: true
+  - type: checkboxes
+    id: redaction
+    attributes:
+      label: Rédaction
+      options:
+        - label: Je peux écrire cette page moi-même.

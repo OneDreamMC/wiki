@@ -1,0 +1,20 @@
+# Chaque push sur main redéploie le site OneDreamMC/site-v2, qui recompile le wiki.
+# Le secret SITE_DISPATCH_TOKEN doit exister dans les secrets Actions de ce repo.
+name: Deploy site
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  dispatch:
+    name: Trigger site-v2 deploy
+    if: github.repository == 'OneDreamMC/wiki'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send wiki-updated to site-v2
+        env:
+          GH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+        run: gh api repos/OneDreamMC/site-v2/dispatches -f event_type=wiki-updated

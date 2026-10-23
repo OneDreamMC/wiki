@@ -107,11 +107,16 @@ premiers mobs sont disponibles : les autres sont verrouillés. Les conditions de
 chaque mob verrouillé : des SkyCoins et un nombre d'éliminations du mob précédent. Une fois les conditions réunies,
 faites un clic droit dessus pour le débloquer.
 
+
+![Un cochon débloqué au premier plan, et derrière lui le poulet verrouillé avec ses conditions de déblocage](images/ile-de-chasse.png "Les conditions de déblocage s'affichent au-dessus de chaque mob verrouillé")
+
 Le butin de vos combats ne remplit pas votre inventaire : il s'accumule dans votre **stockage**. Ouvrez-le avec
 `/hunter loots` pour récupérer vos objets ou vendre ce qui est vendable à votre grade.
 
 > [!TIP]
 > Enchaînez les coups au bon rythme pour faire monter votre **combo** : plus il est élevé, plus la chasse rapporte.
+
+Tout le détail : [l'île de chasse](../chasse/ile-de-chasse.md) et [ses zones et monstres](../chasse/zones-et-monstres.md).
 
 ## Les quêtes journalières
 

@@ -44,6 +44,8 @@ Le serveur utilise un **pack de ressources** : il ajoute les textures, les sons 
 première connexion, le jeu vous propose de l'accepter. Vous devez l'**accepter pour entrer dans le monde** : le
 message affiché en jeu le précise.
 
+![L'écran qui demande d'accepter le pack de ressources, avec les boutons Continuer et Déconnexion](images/invite-pack-ressources.png "Cliquez sur Continuer pour accepter le pack et rejoindre le serveur")
+
 Le téléchargement prend quelques dizaines de secondes. Si vous l'avez refusé par erreur, déconnectez-vous puis
 reconnectez-vous : la proposition revient à chaque connexion.
 

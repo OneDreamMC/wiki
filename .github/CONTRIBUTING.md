@@ -199,7 +199,7 @@ Cinq types, à utiliser avec parcimonie (un ou deux par page) :
 > Une information à ne pas manquer.
 
 > [!WARNING]
-> Un risque de perdre du temps, des objets ou des Dreams.
+> Un risque de perdre du temps, des objets ou des SkyCoins.
 
 > [!CAUTION]
 > Une action irréversible ou sanctionnée.
@@ -321,7 +321,8 @@ Une page traite **un seul sujet**. Au-delà d'environ 1500 mots, découpez-la en
 - Écrivez les commandes en code avec leur barre oblique : `/is create`. Indiquez les paramètres entre chevrons :
   `/livraison <joueur>`.
 - Écrivez les noms de boutons et de menus en gras, avec la majuscule du jeu : **Colis simple**.
-- La monnaie du serveur s'appelle les **Dreams** (« 50 Dreams »).
+- La monnaie principale du serveur s'appelle les **SkyCoins** (« 50 SkyCoins »). Les autres monnaies gardent
+  leur nom du jeu : **Tokens**, **IslandPoints**, **AfkPoints**…
 - Gardez le nom exact des objets Minecraft en français (« table d'enchantement », pas « enchanting table »).
 
 ### Typographie

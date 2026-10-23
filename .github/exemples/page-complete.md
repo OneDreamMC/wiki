@@ -57,9 +57,9 @@ Une fois la grille remplie, cliquez sur **Envoyer**. Les frais sont débités im
 
 | Type de colis | Emplacements | Frais | Délai |
 | --- | --- | --- | --- |
-| Simple | 27 | 50 Dreams | Instantané |
-| Groupé (5 joueurs maximum) | 27 par joueur | 40 Dreams par joueur | Instantané |
-| Ressources rares | 9 | 200 Dreams | 10 minutes |
+| Simple | 27 | 50 SkyCoins | Instantané |
+| Groupé (5 joueurs maximum) | 27 par joueur | 40 SkyCoins par joueur | Instantané |
+| Ressources rares | 9 | 200 SkyCoins | 10 minutes |
 
 Vous pouvez envoyer **20 colis par jour**[^limite]. La limite se réinitialise à 4 h du matin.
 
@@ -73,7 +73,7 @@ Vous pouvez envoyer **20 colis par jour**[^limite]. La limite se réinitialise �
 
 - [x] Le destinataire a une île.
 - [x] Sa boîte aux lettres n'est pas pleine.
-- [ ] Vous avez assez de Dreams pour les frais.
+- [ ] Vous avez assez de SkyCoins pour les frais.
 
 Pour ouvrir l'historique plus vite, appuyez sur <kbd>Maj</kbd> + clic droit sur la boîte aux lettres.
 

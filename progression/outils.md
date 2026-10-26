@@ -75,6 +75,8 @@ Les paliers 6, 7 et 9 sont annoncés prochainement.
 | 9 | 90 | Effet Célérité II permanent |
 | 10 | 100 | Marteau : casse un rayon de 5, tous matériaux |
 
+![La boutique du mineur, avec la description du Marteau Mineur au survol](images/boutique-mineur.png "Survolez un palier pour voir l'outil qu'il débloque")
+
 ### Chasseur
 
 | Palier | Niveau requis | Récompense |

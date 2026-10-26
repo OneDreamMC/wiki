@@ -17,6 +17,8 @@ quête et ce que rapportent le lot et son bonus de complétion.
 
 Ouvrez le menu avec la commande `/dailyquests` ou son raccourci `/dq` :
 
+![Le menu des quêtes journalières, avec la progression d'une quête au survol](images/menu-quetes-journalieres.png "Survolez une quête pour voir sa progression")
+
 ```text
 /dailyquests
 /dq

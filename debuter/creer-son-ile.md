@@ -16,14 +16,12 @@ fonctionnement. La gestion des membres (invitations, rôles, permissions) est tr
 
 ## Créer votre île
 
-1. Tapez la commande `/is create`.
+1. Au spawn, rendez-vous au **Portail des îles** et sautez dedans.
 2. Un menu s'ouvre avec les modèles d'île disponibles. Chaque modèle indique ses caractéristiques et son biome.
 3. **Clic gauche** pour créer l'île, **clic droit** pour la prévisualiser avant de choisir.
 4. L'île est générée en quelques secondes et vous y êtes téléporté automatiquement.
 
-```text
-/is create
-```
+![Le Portail des îles au spawn, sous son panneau](images/portail-des-iles.png "Sautez dans le Portail des îles pour créer votre île")
 
 > [!NOTE]
 > Vous ne pouvez appartenir qu'à une seule île à la fois. Une île supprimée ne peut pas être récupérée :
@@ -32,6 +30,8 @@ fonctionnement. La gestion des membres (invitations, rôles, permissions) est tr
 ### Le menu d'île
 
 La commande `/is menu` ouvre le **panneau de contrôle** de votre île. Vous y retrouvez, en un seul menu :
+
+![Le panneau de contrôle de l'île, avec ses sept boutons](images/panneau-controle-ile.png "Le panneau de contrôle, ouvert avec /is menu")
 
 - **Réglages de l'Ile** : les paramètres de fonctionnement (drapeaux, réglages visibles par les visiteurs) ;
 - **Permissions de l'Ile** : ce que chaque rôle peut faire sur l'île ;

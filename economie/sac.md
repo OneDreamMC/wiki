@@ -29,6 +29,8 @@ réessayez quelques instants plus tard.
 
 Votre sac de départ tient sur une ligne. Deux améliorations existent :
 
+![Le sac de stockage, avec le détail des améliorations au survol](images/menu-sac.png "Le bouton d'amélioration indique vos lignes, vos pages et le prochain déblocage")
+
 - des **lignes supplémentaires**, offertes en récompense de
   [SkyGrades](../progression/skygrades.md) successifs : c'est en progressant dans les grades que votre
   sac gagne ses lignes, jusqu'au maximum de cinq lignes ;

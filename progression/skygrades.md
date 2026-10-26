@@ -31,6 +31,8 @@ cumule plusieurs conditions : toutes doivent être réunies, et la récompense s
 
 Les conditions sont de plusieurs familles :
 
+![Le menu des SkyGrades, avec les objectifs du grade en cours](images/menu-skygrades.png "Les objectifs validés sont cochés en vert")
+
 - **SkyCoins** : une somme à posséder. Elle est déduite quand vous validez le grade.
 - **Objets à fournir** : une liste d'objets à déposer (bûches, minerais, récoltes…).
 - **Kills** : un nombre de mobs spécifiques à éliminer.
@@ -65,6 +67,8 @@ Le menu de vente affiche toujours le prix réel de chaque objet, multiplicateurs
 Le **SG Weekly** est une boutique de vente hebdomadaire, ouverte à tous auprès du PNJ **Sg Weekly** au spawn. Chaque
 semaine, elle propose **3 objets** tirés parmi ceux des grades intermédiaires, rachetés **3 fois plus cher** qu'avec
 `/sell`.
+
+![Le menu du SG Weekly, avec les trois objets de la semaine](images/menu-sg-weekly.png "Les trois objets de la semaine au SG Weekly")
 
 - Vous devez avoir le grade qui débloque l'objet pour le vendre.
 - Chaque objet a un quota de **5 000 ventes par joueur** et par semaine.

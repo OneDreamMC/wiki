@@ -21,6 +21,8 @@ par les joueurs ; certains articles sont **mis en avant** et apparaissent en tê
 téléportez-vous au shop choisi : vous arrivez sur l'île du vendeur. Une île qui n'accepte pas de visiteurs refuse
 également les achats.
 
+![L'annuaire des shops, avec le détail d'un shop au survol](images/annuaire-shops.png "Depuis l'annuaire, consultez les articles ou téléportez-vous au shop")
+
 Sur place, chaque shop porte un nom flottant qui indique son nom et son nombre d'articles. Cliquez sur l'étal,
 choisissez un article et la quantité : le paiement se fait en SkyCoins, ou en objets si le vendeur a choisi le troc.
 Les objets à interdiction de commerce sont refusés à la vente, et un conteneur qui en contient un l'est aussi.
@@ -45,6 +47,8 @@ départ, améliorable jusqu'à cinq depuis le menu **Mes shops**.
 ### Gérer vos articles
 
 Ouvrez votre shop pour accéder à sa gestion :
+
+![Le menu de gestion d'un shop, avec les emplacements ouverts et verrouillés](images/gestion-shop.png "Le menu de gestion de votre shop")
 
 - **Ajouter un article** : tenez en main l'objet à vendre, cliquez sur un emplacement libre, puis fixez le prix
   d'une unité dans le chat — en SkyCoins, ou en objets pour le troc. Ajoutez ensuite le stock depuis votre

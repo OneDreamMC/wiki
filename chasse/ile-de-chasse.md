@@ -86,6 +86,8 @@ animaux restent immobiles, les plus coriaces bougent de plus en plus.
 Le butin de vos combats ne remplit pas votre inventaire : il s'accumule dans votre **stockage de
 chasse**.
 
+![Le stockage du butin de chasse](images/stockage-butin.png "Le stockage du butin, ouvert avec /hunter loots")
+
 ```text
 /hunter loots    Ouvrir le stockage de votre butin
 ```

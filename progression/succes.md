@@ -18,6 +18,8 @@ titres.
 
 Ouvrez le menu avec `/succes` :
 
+![Le menu des succès, avec les succès débloqués et verrouillés](images/menu-succes.png "Le menu des succès, ouvert avec /succes")
+
 ```text
 /succes
 ```

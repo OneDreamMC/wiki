@@ -22,6 +22,8 @@ Cette page explique comment rejoindre un métier et gagner de l'expérience.
 
 Ouvrez le menu des métiers avec `/jobs`. Vous y trouvez quatre métiers :
 
+![Le menu des métiers](images/menu-metiers.png "Le menu des métiers, ouvert avec /jobs")
+
 - **Bûcheron** : vous gagnez de l'expérience en coupant du bois.
 - **Fermier** : vous gagnez de l'expérience en cultivant.
 - **Mineur** : vous gagnez de l'expérience en extrayant des minerais.

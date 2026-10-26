@@ -21,6 +21,8 @@ Bobby les matériaux de l'End, Charlotte les fleurs et plantes ornementales, Jac
 herbes, mousses et coraux, Margaux la glace et la prismarine, Pierre le béton de toutes les couleurs, et Tom la
 terre, le sable et les sédiments.
 
+![Le comptoir d'un marchand du spawn et son catalogue](images/comptoir-marchand.png "Le catalogue d'un marchand du spawn")
+
 Pour acheter, cliquez sur le marchand : son catalogue s'ouvre, avec le prix de chaque article et la quantité de votre
 choix. Un achat se paie en SkyCoins ; certains articles demandent aussi des objets en supplément.
 
@@ -52,6 +54,8 @@ Chaque marchand suit votre progression chez lui :
 
 Une fois le contrat rempli, le catalogue du marchand devient livrable : vous pouvez commander des quantités plus
 importantes et vous les faire livrer directement sur votre île.
+
+![Le menu des livraisons, avec les marchands disponibles](images/menu-livraison.png "Le menu des livraisons, ouvert avec /livraison")
 
 Ouvrez le menu avec `/livraison` (les alias `/livraisons`, `/delivery` et `/deliveries` fonctionnent aussi), comme
 indiqué dans [la liste des commandes](../commandes.md).

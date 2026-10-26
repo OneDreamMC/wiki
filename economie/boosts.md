@@ -28,6 +28,8 @@ Chaque boost porte son multiplicateur et sa durée dans son nom, par exemple « 
 
 Ouvrez votre menu de boosts :
 
+![Le menu des boosts, avec un boost actif et son temps restant](images/menu-boosts.png "Un boost actif affiche son temps restant")
+
 ```text
 /boost
 ```

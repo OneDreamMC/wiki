@@ -71,6 +71,8 @@ avec ces fragments. Ces deux fonctions se débloquent avec un SkyGrade, via le m
 /baltop <devise>
 ```
 
+![La liste de tous vos soldes : SkyCoins, Tokens, ReRolls, AfkPoints, clés et IslandPoints](images/menu-soldes.png "Tous vos soldes, affichés avec /balances")
+
 - `/money` affiche votre solde de SkyCoins.
 - `/balances` affiche tous vos soldes d'un coup.
 - `/baltop` affiche le classement d'une devise, à indiquer dans la commande.

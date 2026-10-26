@@ -26,6 +26,8 @@ menus, comment gagner vos premiers SkyCoins et dans quel ordre débloquer les sy
 
 La commande `/menu` ouvre le menu du serveur. Chaque bouton renvoie à un système, sans retenir de commande :
 
+![Le menu principal du serveur et ses boutons](images/menu-principal.png "Le menu principal, ouvert avec /menu")
+
 | Bouton | Ce que ça ouvre |
 | --- | --- |
 | **SkyGrades** | Votre progression en grades |
@@ -58,6 +60,8 @@ Pour le détail des grades, des paliers et des récompenses, consultez [la page 
 ## Gagner vos premiers SkyCoins
 
 Une fois le grade Roturier validé, vendez vos surplus avec `/sell` :
+
+![Le menu de vente, avec le prix d'un objet affiché au survol](images/menu-vente.png "Survolez un objet pour voir son prix de vente")
 
 ```text
 /sell

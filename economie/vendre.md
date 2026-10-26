@@ -20,6 +20,8 @@ divers. Sélectionnez ce que vous voulez céder, vérifiez le total, puis confir
 crédités immédiatement et les objets sont retirés de votre inventaire ou de votre
 [sac](sac.md).
 
+![L'écran de vente d'un objet, avec le réglage de la quantité et le bouton Valider](images/menu-vente-groupe.png "Réglez la quantité puis cliquez sur Valider")
+
 L'accès à `/sell` est la récompense du premier [SkyGrade](../progression/skygrades.md) : vous débloquez
 la vente dès vos premiers pas sur l'île.
 

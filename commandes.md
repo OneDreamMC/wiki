@@ -21,8 +21,11 @@ Tapez la commande dans le chat, avec la barre oblique. Les paramètres entre che
 | `/baltop [devise] [page]` | — | Affiche le classement des plus riches pour une monnaie. |
 | `/money` | — | Affiche votre solde en SkyCoins. |
 | `/playtime [joueur]` | `/tempsdejeu` | Affiche votre temps de jeu et vos paliers de récompense. |
+| `/menu` | — | Ouvre le menu principal du serveur. Voir [les premiers pas](debuter/premiers-pas.md). |
+| `/profile` | — | Ouvre votre profil : grade, solde, statistiques et classements. |
+| `/options` | — | Ouvre vos réglages de jeu. |
 | `/discord` | — | Affiche le lien du Discord officiel. |
-| `/boutique` | — | Affiche le lien de la boutique sur le site. |
+| `/boutique` | — | Ouvre la boutique en jeu : cadeau du jour, abonnement et clés. |
 | `/voter` | — | Affiche où aller pour voter pour le serveur. |
 
 ## Île

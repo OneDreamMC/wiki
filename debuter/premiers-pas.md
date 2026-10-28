@@ -24,22 +24,46 @@ menus, comment gagner vos premiers SkyCoins et dans quel ordre débloquer les sy
 
 ## Le menu principal
 
-La commande `/menu` ouvre le menu du serveur. Chaque bouton renvoie à un système, sans retenir de commande :
+La commande `/menu` ouvre le menu du serveur. Chaque bouton renvoie à un système, sans retenir de commande. Survolez
+une carte pour voir votre progression : niveau de l'île, mobs débloqués, grade actuel, succès obtenus.
 
-![Le menu principal du serveur et ses boutons](images/menu-principal.png "Le menu principal, ouvert avec /menu")
+![Le menu principal, avec ses six cartes, ses bannières et la plaque à votre pseudo](images/menu-principal.png "Le menu principal, ouvert avec /menu")
 
 | Bouton | Ce que ça ouvre |
 | --- | --- |
+| **Île** | Le panneau de contrôle de votre île |
+| **Chasse** | La téléportation sur l'île de chasse |
+| **Métiers** | Le menu des métiers |
 | **SkyGrades** | Votre progression en grades |
-| **Daily Quests** | Les quêtes journalières |
-| **Métiers** | Le choix des métiers |
-| **Chasse** | Aller sur l'île de chasse |
-| **Ile** | Le panneau de contrôle de votre île |
-| **Shop** | Le shop du serveur |
-| **Vente** | La vente de vos ressources |
+| **Quêtes** | Les quêtes journalières |
 | **Succès** | Le menu des succès |
-| **Boutique** | La boutique du serveur |
-| **Wiki** et **Discord** | Les liens officiels |
+| **Vente** | Le menu de vente `/sell` |
+| **Boutique** | La boutique du serveur, avec le cadeau du jour |
+| **Wiki** et **Discord** | Les liens officiels, affichés dans le chat |
+| **Options** (roue dentée) | Vos réglages de jeu |
+| **Votre tête et votre pseudo** | Votre profil |
+
+### Votre profil
+
+Cliquez sur votre tête ou sur votre pseudo, en bas du menu, pour ouvrir votre **profil**. Il réunit toutes vos
+données en un coup d'œil : grade, titre, solde, temps de jeu, niveaux de métiers, statistiques de chasse, de votre île
+et des animations, boosts actifs et position dans les classements. Le profil sert à consulter : rien ne s'y modifie.
+
+### La boutique
+
+Le bouton **Boutique**, comme la commande `/boutique`, ouvre la boutique en jeu. Vous y trouvez :
+
+- le **cadeau du jour** : un objet gratuit, différent chaque jour, à récupérer une fois par jour ;
+- l'**abonnement** ;
+- les **clés** de caisse, payées en Tokens.
+
+### Les options
+
+La roue dentée ouvre vos **options**, aussi accessibles depuis le profil. Un clic sur un réglage l'active ou le
+coupe :
+
+- **Sons du bûcheronnage** : les sons de l'arbre abattu d'un coup, de l'effet Twerk et du ramassage ;
+- **Joueurs sur l'île de chasse** : afficher ou masquer les autres chasseurs.
 
 ## Monter en SkyGrade
 

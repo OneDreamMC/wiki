@@ -33,7 +33,8 @@ votre stockage.
 
 Les mobs de l'île sont propres à chaque joueur : **les autres joueurs ne peuvent pas voler vos
 mobs**, et vous ne volez pas les leurs. Deux joueurs côte à côte voient chacun ses propres
-animaux, au même endroit. Vous chassez à votre rythme, sans compétition.
+animaux, au même endroit. Vous chassez à votre rythme, sans compétition. Pour ne plus voir les autres chasseurs, coupez le
+réglage **Joueurs sur l'île de chasse** dans `/options`.
 
 ### Se déplacer sur l'île
 

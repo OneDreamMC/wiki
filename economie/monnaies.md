@@ -44,7 +44,7 @@ Tokens, le coût est fixe.
 ### IslandPoints
 
 Les **IslandPoints** appartiennent à votre île, pas à votre inventaire. Vous en gagnez en accomplissant
-des missions d'île, et vous les dépensez dans les **améliorations de l'île**, accessibles depuis le
+des [missions d'île](../iles/missions-d-ile.md), et vous les dépensez dans les **améliorations de l'île**, accessibles depuis le
 panneau de contrôle. Un classement compare les îles entre elles.
 
 ### AfkPoints

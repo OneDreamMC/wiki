@@ -31,7 +31,7 @@ Tapez la commande dans le chat, avec la barre oblique. Les paramètres entre che
 ## Île
 
 Ces commandes concernent la gestion de votre île. Pour en créer une, consultez
-[créer son île](debuter/creer-son-ile.md).
+[créer son île](debuter/creer-son-ile.md). Pour la gérer à plusieurs, consultez [gérer son île](iles/gerer-son-ile.md).
 
 | Commande | Alias | Rôle |
 | --- | --- | --- |
@@ -40,11 +40,11 @@ Ces commandes concernent la gestion de votre île. Pour en créer une, consultez
 | `/is create` | — | Ouvre le menu de création d'une nouvelle île. |
 | `/is accept <joueur>` | — | Accepte l'invitation à rejoindre une île. |
 | `/is transfer` | — | Transfère la propriété de votre île à un membre. |
-| `/is missions` | — | Affiche les missions de votre île à compléter. |
 | `/is top` | — | Affiche le classement des meilleures îles. |
 | `/is bank` | — | Ouvre la banque de votre île. |
 | `/is permissions` | — | Gère les droits de chaque membre (casser, poser, ouvrir…). |
 | `/is biome` | — | Change le biome de votre île. |
+| `/is nether` | — | Change le biome de votre île du Nether, une fois le Nether débloqué. |
 | `/is upgrades` | `/is upgrade` | Ouvre le menu des améliorations de l'île, payées en IslandPoints. |
 | `/is help [page]` | — | Affiche l'aide des commandes de l'île. |
 | `/islandpoints` | `/ip`, `/ipoints` | Affiche votre solde d'IslandPoints et le classement des îles. |
@@ -56,7 +56,7 @@ Ces commandes concernent la gestion de votre île. Pour en créer une, consultez
 | `/sg` | `/c`, `/challenges`, `/objectifs`, `/rangs`, `/skygrades` | Ouvre le menu des SkyGrades, les objectifs qui font évoluer votre grade. Voir [les SkyGrades](progression/skygrades.md). |
 | `/sg weekly` | — | Ouvre le SG Weekly sans passer par le PNJ du spawn (grades premium, ou débloqué par un SkyGrade). |
 | `/dailyquests` | `/dq` | Ouvre vos quêtes journalières. Voir [les quêtes journalières](progression/quetes-journalieres.md). |
-| `/missions` | `/m`, `/mission` | Ouvre le menu des missions d'île. |
+| `/missions` | `/m`, `/mission` | Ouvre le menu des missions d'île. Voir [les missions d'île](iles/missions-d-ile.md). |
 | `/succes` | — | Ouvre le menu des succès. Voir [les succès](progression/succes.md). |
 | `/jobs` | — | Ouvre le menu des métiers. Voir [les métiers](progression/metiers.md). |
 | `/jobs join <métier>` | — | Rejoint un métier : Bûcheron, Chasseur, Fermier ou Mineur. |

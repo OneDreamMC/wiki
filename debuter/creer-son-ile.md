@@ -12,7 +12,8 @@ keywords:
 
 Sur One Dream, tout part de votre **île** : un petit territoire flottant, entouré de vide, que vous agrandissez et
 aménagez à votre rythme. Cette page explique comment créer votre île, comment y revenir et où régler son
-fonctionnement. La gestion des membres (invitations, rôles, permissions) est traitée dans une page dédiée.
+fonctionnement. La gestion des membres (invitations, rôles, permissions) est traitée dans
+[gérer son île](../iles/gerer-son-ile.md).
 
 ## Créer votre île
 

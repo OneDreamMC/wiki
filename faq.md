@@ -23,10 +23,11 @@ Voir [rejoindre le serveur](debuter/rejoindre-le-serveur.md).
 </details>
 
 <details>
-<summary>Où trouver l'adresse du serveur ?</summary>
+<summary>Quelle est l'adresse du serveur ?</summary>
 
-Sur le site [one-dream.fr](https://one-dream.fr) et sur le [Discord](https://discord.gg/RjYBUUKYFg). Le wiki ne
-l'affiche pas, pour ne jamais diffuser une adresse périmée.
+L'adresse du serveur est `play.one-dream.fr`. Ajoutez-la dans le menu **Multijoueur** de Minecraft : voir
+[rejoindre le serveur](debuter/rejoindre-le-serveur.md). Les annonces sont publiées sur le
+[Discord](https://discord.gg/RjYBUUKYFg).
 
 </details>
 

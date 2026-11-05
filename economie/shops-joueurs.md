@@ -73,9 +73,10 @@ améliorations, prêt à être reposé ailleurs.
 
 ## Skins et mises en avant
 
-- **Skins** : votre shop prend l'apparence d'un étal visible par tous. Des skins d'apparence (charriot marchand,
-  noble, royal…) peuvent se débloquer ou s'acheter avec des SkyCoins ou des Tokens ; un skin débloqué s'applique à
-  tous vos shops.
+- **Skins** : changez l'apparence de votre shop, visible par tous. Le menu des skins en propose une dizaine (Échoppe
+  du bourg, Pavillon de tournoi, Kiosque royal, Nef céleste…), à acheter en SkyCoins ou en Tokens. Certains sont
+  réservés à un grade premium ou à un pack de la boutique. Avant d'acheter, prévisualisez un skin quelques secondes
+  sur votre shop posé. Un skin débloqué s'applique à tous vos shops.
 - **Mise en avant** : depuis la gestion du shop, mettez un article en vente en tête de l'annuaire pendant une
   demi-heure. Un seul article par île à la fois, contre des émeraudes.
 
@@ -95,7 +96,7 @@ Ouvrez `/ah recup` : les objets que l'achat n'a pas pu vous remettre y attendent
 <details>
 <summary>Votre shop a disparu de l'île</summary>
 
-S'il a été retiré (reset d'île, expulsion), son contenu vous a été rendu : vérifiez votre boîte de récupération avec
-`/ah recup`, puis reposez-le avec `/ah place`.
+S'il a été retiré (reset d'île, expulsion), il est rangé dans `/ah place` : reposez-le depuis ce menu. Son stock et
+ses paiements vous attendent dans `/ah recup`.
 
 </details>

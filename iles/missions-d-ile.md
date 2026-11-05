@@ -39,8 +39,14 @@ Chaque mission suit une action précise, par exemple « Casser de la pierre » o
 
 ### Une progression commune
 
-Les missions appartiennent à l'**île**, pas au joueur. Chaque membre fait avancer les mêmes compteurs : à plusieurs,
-les missions avancent bien plus vite.
+Les missions appartiennent à l'**île**, pas au joueur. Chaque membre fait avancer les mêmes compteurs.
+
+Les objectifs s'adaptent à la taille de l'équipe : chaque membre en plus du premier augmente l'objectif de chaque
+étape de **20 %**. Par exemple, une étape de 64 blocs de pierre en demande 90 pour une île de 3 membres. Le menu
+affiche toujours l'objectif de votre île.
+
+Un nouveau membre ne vous fait perdre aucune étape déjà terminée. Si un membre quitte l'île, l'objectif baisse : une
+étape peut alors se terminer dès la prochaine progression.
 
 Les missions de Minage, de Bûcheronnage et d'Agriculture ne comptent que sur **votre île**. Celles de Chasse, de
 Pêche et de Crafting comptent partout.

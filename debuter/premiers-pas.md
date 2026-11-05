@@ -54,7 +54,7 @@ et des animations, boosts actifs et position dans les classements. Le profil ser
 Le bouton **Boutique**, comme la commande `/boutique`, ouvre la boutique en jeu. Vous y trouvez :
 
 - le **cadeau du jour** : un objet gratuit, différent chaque jour, à récupérer une fois par jour ;
-- l'**abonnement** ;
+- le **Premium**, l'abonnement du serveur ;
 - les **clés** de caisse, payées en Tokens.
 
 ### Les options

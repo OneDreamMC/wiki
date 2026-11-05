@@ -34,17 +34,20 @@ monnaie. L'outil arrive directement dans votre inventaire.
 
 | Palier | Niveau requis | Récompense |
 | --- | --- | --- |
-| 1 | 10 | Hache en fer, Efficacité 3, Fortune 2 |
-| 2 | 20 | Hache en diamant, Efficacité 3, Fortune 2 |
-| 3 | 30 | Hache en diamant, Efficacité 5, Fortune 3 |
-| 4 | 40 | Effet « Twerk » : se mettre accroupi stimule la pousse des plantes alentour |
-| 5 | 50 | Hache en netherite, Efficacité 8, Toucher de soie |
-| 6 | 60 | Cisailles, Efficacité 5 |
-| 7 | 70 | Abattage d'un arbre en un coup (activable avec `/bucheron`) |
-| 8 | 80 | Hache en netherite, Efficacité 15, Toucher de soie |
-| 9 | 90 | Cisailles, Efficacité 15 |
+| 1 | 10 | Hache en fer, Efficacité 3, Fortune 2, abat jusqu'à 20 bûches d'un coup |
+| 2 | 20 | Abattage d'un arbre en un coup avec une hache de Bûcheron |
+| 3 | 30 | Replantation automatique et ramassage des bûches dans l'inventaire, puis dans le sac |
+| 4 | 40 | Hache en diamant, Efficacité 3, Fortune 2, abat jusqu'à 40 bûches d'un coup |
+| 5 | 50 | Hache en diamant, Efficacité 5, Fortune 3, abat jusqu'à 70 bûches d'un coup |
+| 6 | 60 | Effet « Twerk » : s'accroupir et se relever fait pousser les arbres alentour |
+| 7 | 70 | Hache en netherite, Efficacité 8, Toucher de soie, abat jusqu'à 110 bûches d'un coup |
+| 8 | 80 | Cisailles, Efficacité 5 |
+| 9 | 90 | Hache en netherite, Efficacité 15, Toucher de soie, abat jusqu'à 160 bûches d'un coup |
+| 10 | 100 | Cisailles, Efficacité 15 |
 
-Le palier 10 (niveau 100) est annoncé prochainement.
+L'abattage en un coup s'active ou se coupe avec `/bucheron toggle` (alias `/timber toggle`). Pour casser une seule
+bûche, accroupissez-vous. Les bûches abattues en plus de la première rapportent moins d'expérience de métier qu'une
+bûche cassée à la main.
 
 ### Fermier
 
@@ -52,7 +55,7 @@ Le palier 10 (niveau 100) est annoncé prochainement.
 | --- | --- | --- |
 | 1 | 10 | Houe en diamant, Fortune 2 |
 | 2 | 20 | Houe en netherite, Fortune 3 |
-| 3 | 30 | Seau d'eau infini |
+| 3 | 30 | Arrosoir d'eau infini |
 | 4 | 40 | Brouteuse : laboure, récolte et replante dans un rayon de 2 |
 | 5 | 50 | Houe en netherite, Fortune 5 |
 | 8 | 80 | Brouteuse avec un rayon de 4 |
@@ -99,13 +102,13 @@ La boutique globale se base sur la **somme de vos niveaux de métiers** (voir
 
 | Palier | Niveau total requis | Récompense |
 | --- | --- | --- |
-| 1 | 30 | Multi-outils, Efficacité 5, s'adapte au bloc cassé |
-| 2 | 50 | Multi-outils, Efficacité 10, s'adapte au bloc cassé |
-| 3 | 80 | Exercer 2 métiers en même temps |
-| 4 | 115 | Multi-outils, Efficacité 10, Fortune 5 |
-| 5 | 130 | Multi-outils, Efficacité 10, Toucher de soie |
-| 6 | 150 | Exercer 3 métiers en même temps |
-| 7 | 200 | Exercer 4 métiers en même temps |
+| 1 | 40 | Exercer 2 métiers en même temps |
+| 2 | 100 | Multi-outils, Efficacité 5, s'adapte au bloc cassé |
+| 3 | 130 | Exercer 3 métiers en même temps |
+| 4 | 180 | Multi-outils, Efficacité 10, s'adapte au bloc cassé |
+| 5 | 200 | Exercer 4 métiers en même temps |
+| 6 | 280 | Multi-outils, Efficacité 10, Fortune 5 |
+| 7 | 300 | Multi-outils, Efficacité 10, Toucher de soie |
 
 Le **multi-outils** est un outil unique qui se comporte comme la pioche, la hache ou la houe selon le bloc cassé.
 
@@ -122,8 +125,7 @@ Régénération, Célérité) s'appliquent automatiquement dès que l'outil est 
 êtes connecté.
 
 D'autres objets spéciaux existent ailleurs dans le jeu : les **baguettes de construction** et de vente, ainsi que des
-**outils légendaires et mythiques**, s'obtiennent dans les caisses. Ils sont présentés dans la page consacrée aux
-caisses.
+**outils légendaires et mythiques**, s'obtiennent dans les caisses du spawn.
 
 > [!TIP]
 > Les niveaux de métiers conditionnent aussi vos SkyGrades : montez plusieurs métiers en parallèle pour débloquer le

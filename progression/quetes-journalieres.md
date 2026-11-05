@@ -55,7 +55,8 @@ types de quêtes s'ajoutent immédiatement à votre lot, en conservant la progre
 
 Le tirage dépend de votre grade du moment : un joueur plus gradé reçoit un lot plus riche le même jour. Chaque quête
 complétée rapporte **1 clé de caisse de Niveau 1**. Quand toutes les quêtes du jour sont complétées, vous recevez en
-plus un bonus de complétion, versé une seule fois par jour : **1 clé de caisse de Niveau 3**.
+plus un bonus de complétion, versé une seule fois par jour : **1 clé de caisse de Niveau 3**, ou **2**
+pour les joueurs Premium.
 
 ## Changer une quête : le reroll
 

@@ -63,9 +63,9 @@ indiqué dans [la liste des commandes](../commandes.md).
 1. Ouvrez `/livraison` et choisissez le marchand.
 2. Réglez la quantité, puis validez : vous devez être sur votre île, et une seule livraison peut être en route à la
    fois.
-3. Le colis tombe du ciel à l'endroit où vous vous trouviez lors de la commande, puis reste posé au sol quelques
-   minutes.
-4. Cliquez sur le colis pour l'ouvrir, puis sur **Récupérer** : son contenu se verse dans votre sac. Si le sac
+3. Une montgolfière arrive et largue une malle à l'endroit où vous vous trouviez lors de la commande. La malle reste
+   posée au sol quelques minutes.
+4. Cliquez sur la malle pour l'ouvrir, puis sur **Récupérer** : son contenu se verse dans votre sac. Si le sac
    déborde, le reliquat reste dans le colis.
 
 ![Le menu d'un colis livré sur une île, avec son contenu et le bouton Récupérer](images/colis-livre.png "Ouvrez le colis et cliquez sur Récupérer")
@@ -76,7 +76,7 @@ Un colis non récupéré avant sa disparition ne se perd pas : son contenu rejoi
 ### Les frais de livraison
 
 Une commande livrée coûte le prix du comptoir, plus des frais de port prélevés sur la part en SkyCoins de la
-commande. Ces frais sont offerts aux joueurs abonnés : leur écran de commande l'indique directement, et un encart
+commande. Ces frais sont offerts aux joueurs **Premium** : leur écran de commande l'indique directement, et un encart
 renvoie vers `/boutique` pour les autres.
 
 ## En cas de problème

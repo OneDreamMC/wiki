@@ -25,7 +25,8 @@ Tapez la commande dans le chat, avec la barre oblique. Les paramètres entre che
 | `/profile` | — | Ouvre votre profil : grade, solde, statistiques et classements. |
 | `/options` | — | Ouvre vos réglages de jeu. |
 | `/discord` | — | Affiche le lien du Discord officiel. |
-| `/boutique` | — | Ouvre la boutique en jeu : cadeau du jour, abonnement et clés. |
+| `/boutique` | — | Ouvre la boutique en jeu : cadeau du jour, Premium et clés. |
+| `/soutenir` | — | Affiche le lien de la boutique du site. |
 | `/voter` | — | Affiche où aller pour voter pour le serveur. |
 
 ## Île
@@ -84,7 +85,7 @@ Ces commandes concernent la gestion de votre île. Pour en créer une, consultez
 | `/sac` | `/bag`, `/storage` | Ouvre votre sac de stockage supplémentaire. |
 
 > [!WARNING]
-> Les sous-commandes `/sell all` et `/sell hand` sont réservées aux joueurs qui disposent de l'abonnement.
+> Les sous-commandes `/sell all`, `/sell hand` et `/sell item` sont réservées aux joueurs Premium.
 > `/sell` reste accessible à tous.
 
 ## Récompenses
@@ -97,8 +98,12 @@ Ces commandes concernent la gestion de votre île. Pour en créer une, consultez
 | `/afk shop` | — | Ouvre la boutique des récompenses AFK. |
 | `/afk info` | — | Affiche les informations sur votre état AFK. |
 | `/boost` | — | Ouvre le menu de vos boosts actifs. |
-| `/crates` | `/caisses`, `/crate` | Ouvre le menu des caisses à clés. |
+| `/crates` | `/caisses`, `/crate` | Ouvre le menu des caisses à clés. `/crates gains` affiche les lots possibles. |
 | `/nightvision` | — | Active ou désactive la vision nocturne, débloquée dans la boutique du Chasseur. |
+| `/bucheron toggle` | `/timber toggle` | Active ou coupe l'abattage d'un arbre en un coup, débloqué dans la boutique du Bûcheron. |
+| `/condense` | — | Compacte en blocs l'objet en main ou tout l'inventaire (`/condense hand`, `/condense inventory`). Grade Excellence. |
+| `/uncondense` | — | Décompacte les blocs en objets. Grade Excellence. |
+| `/autocondense` | — | Active ou coupe le compactage automatique des objets ramassés. Grade Excellence. |
 
 > [!NOTE]
 > Le prix de `/sell`, les récompenses de la boutique AFK et des animations sont encore en cours de réglage :

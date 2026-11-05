@@ -15,8 +15,8 @@ objets sont vendables et comment augmenter vos revenus.
 ## Vendre avec /sell
 
 Tapez `/sell` (alias `/s`, `/vendre`, `/vente`) pour ouvrir le menu de vente. Les objets vendables y
-sont classés par groupes : pierre, bois, cultures, plantes, nourriture, mobs, minerais, nether et
-divers. Sélectionnez ce que vous voulez céder, vérifiez le total, puis confirmez : les SkyCoins sont
+sont classés par groupes : pierre, bois, feuilles, cultures, plantes, nourriture, mobs, minerais,
+nether et divers. Sélectionnez ce que vous voulez céder, vérifiez le total, puis confirmez : les SkyCoins sont
 crédités immédiatement et les objets sont retirés de votre inventaire ou de votre
 [sac](sac.md).
 
@@ -30,12 +30,14 @@ Des modes avancés existent :
 ```text
 /sell hand
 /sell all
+/sell item
 ```
 
 - `/sell hand` vend l'objet tenu en main.
 - `/sell all` vend d'un coup tous les objets vendables de votre inventaire.
+- `/sell item` vend tous les exemplaires de l'objet tenu en main, dans votre inventaire et votre sac.
 
-Ces deux modes sont réservés aux abonnés.
+Ces modes sont réservés aux joueurs **Premium**.
 
 ## Les prix de vente
 

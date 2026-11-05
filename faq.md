@@ -165,7 +165,7 @@ Le **Premium** est l'abonnement du serveur. Il apporte surtout du confort et des
 
 - des clés Légendaire et des boosts de vente chaque semaine ;
 - plus d'expérience de métier et plus de récompenses de [quêtes journalières](progression/quetes-journalieres.md) ;
-- la vente rapide avec `/sell hand`, `/sell all` et `/sell item` ;
+- la vente rapide avec `/sell hand`, `/sell all` et `/sell item`, sans attendre de les débloquer avec les SkyGrades ;
 - la livraison gratuite des achats faits aux marchands du spawn ;
 - des récompenses de vote doublées sur le site ;
 - un suffixe, le chat en couleurs et quelques commandes de confort.

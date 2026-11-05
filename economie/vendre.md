@@ -37,7 +37,7 @@ Des modes avancés existent :
 - `/sell all` vend d'un coup tous les objets vendables de votre inventaire.
 - `/sell item` vend tous les exemplaires de l'objet tenu en main, dans votre inventaire et votre sac.
 
-Ces modes sont réservés aux joueurs **Premium**.
+Ces modes se débloquent au fil des [SkyGrades](../progression/skygrades.md), ou directement avec le **Premium**.
 
 ## Les prix de vente
 

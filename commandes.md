@@ -85,8 +85,8 @@ Ces commandes concernent la gestion de votre île. Pour en créer une, consultez
 | `/sac` | `/bag`, `/storage` | Ouvre votre sac de stockage supplémentaire. |
 
 > [!WARNING]
-> Les sous-commandes `/sell all`, `/sell hand` et `/sell item` sont réservées aux joueurs Premium.
-> `/sell` reste accessible à tous.
+> Les sous-commandes `/sell all`, `/sell hand` et `/sell item` se débloquent avec les SkyGrades, ou directement avec le
+> Premium. `/sell` reste accessible à tous.
 
 ## Récompenses
 

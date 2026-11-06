@@ -45,6 +45,11 @@ Les conditions sont de plusieurs familles :
 Les conditions se cumulent d'un grade à l'autre : les grades avancés demandent à la fois de l'argent, des objets en
 grande quantité et des niveaux importants. Préparez vos stocks avant de valider.
 
+### Féliciter un joueur
+
+Quand un joueur débloque un SkyGrade, tapez `/gg` pour le féliciter. Vous recevez une récompense en retour : soyez
+rapide, la commande n'est possible que peu de temps après le déblocage.
+
 ## Les SkyGrades et la vente
 
 La commande `/sell` se débloque avec le premier grade, **Roturier**. Votre grade détermine ensuite ce que vous pouvez

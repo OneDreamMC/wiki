@@ -24,6 +24,8 @@ Tapez la commande dans le chat, avec la barre oblique. Les paramètres entre che
 | `/menu` | — | Ouvre le menu principal du serveur. Voir [les premiers pas](debuter/premiers-pas.md). |
 | `/profile` | — | Ouvre votre profil : grade, solde, statistiques et classements. |
 | `/options` | — | Ouvre vos réglages de jeu. |
+| `/bvn` | — | Souhaite la bienvenue au joueur qui vient d'arriver pour la première fois sur le serveur, et vous rapporte une récompense. |
+| `/gg` | — | Félicite le joueur qui vient de débloquer un SkyGrade, et vous rapporte une récompense. Voir [les SkyGrades](progression/skygrades.md). |
 | `/discord` | — | Affiche le lien du Discord officiel. |
 | `/boutique` | — | Ouvre la boutique en jeu : cadeau du jour, Premium et clés. |
 | `/soutenir` | — | Affiche le lien de la boutique du site. |

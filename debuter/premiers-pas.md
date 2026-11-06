@@ -175,4 +175,8 @@ Une fois ces bases posées, votre rythme est simple : jouer, vendre, valider le 
 jour. Au fil de vos grades, la vente, les améliorations d'île et les outils de métier s'ouvrent les uns après les
 autres.
 
+Restez attentif au chat : quand un nouveau joueur arrive, tapez `/bvn` pour lui souhaiter la bienvenue, et quand un
+joueur débloque un SkyGrade, tapez `/gg` pour le féliciter. Les deux commandes vous rapportent une récompense, si
+vous êtes assez rapide.
+
 Pour retrouver toutes les commandes joueur en un coup d'œil, consultez [la liste des commandes](../commandes.md).

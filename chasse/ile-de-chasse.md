@@ -74,9 +74,7 @@ accélération, suivez-la plutôt que votre mémoire. Un coup trop tard casse le
 conserve ses dégâts : vous perdez le bonus, pas le coup. Une pause de quelques secondes remet
 aussi le compteur à zéro.
 
-> [!TIP]
-> Si vous voulez viser juste : les points faibles font monter le combo, les critiques aussi, et
-> les deux s'additionnent.
+Si vous voulez viser juste : les points faibles font monter le combo, les critiques aussi, et les deux s'additionnent.
 
 Certains mobs **esquivent** : après quelques coups encaissés, ils se déplacent d'un bond,
 accompagné d'un son et de particules. Recadrez votre visée avant le coup suivant. Les premiers
@@ -110,12 +108,40 @@ Chaque mob abattu fait gagner de l'expérience au métier **Chasseur** : plus la
 puissante, plus elle rapporte. C'est sur l'île de chasse que ce métier progresse, et ses niveaux
 débloquent des outils comme les autres métiers. Voir [les métiers](../progression/metiers.md).
 
-Vous gagnez aussi une **expérience de chasse** propre, visible dans le stockage : elle se
-convertit en expérience Minecraft depuis le stockage.
+Vous gagnez aussi une **expérience de chasse** propre, visible dans le stockage. Elle sert à
+[améliorer vos mobs](#améliorer-vos-mobs), ou se convertit en expérience Minecraft depuis le stockage : gardez-en
+assez pour vos améliorations avant de convertir.
 
 > [!IMPORTANT]
 > Vos kills de chasse comptent comme des kills classiques dans les statistiques du jeu, utilisées notamment par les
 > SkyGrades et les succès. Un groupe de mobs abattu compte pour autant de kills individuels.
+
+## Améliorer vos mobs
+
+Faites un **clic droit** sur un mob débloqué pour ouvrir ses **améliorations**. Elles se paient avec votre
+expérience de chasse et s'achètent **mob par mob** : chaque mob a ses propres niveaux, propres à vous.
+
+| Amélioration | Effet |
+| --- | --- |
+| **Chance de loot** | Plus de butin à chaque mob abattu |
+| **Bonus d'expérience** | Plus d'expérience de chasse par mob abattu |
+| **Taille du stack** | Plus de mobs dans le groupe |
+| **Vitesse de réapparition** | Le groupe se reconstitue plus vite |
+| **Chasse automatique** | Un mob du groupe tombe tout seul à intervalle régulier |
+
+Chaque niveau coûte plus cher que le précédent, et un mob puissant coûte plus cher à améliorer qu'un petit animal.
+Le menu affiche l'effet et le prix du niveau suivant. Aucune amélioration ne touche aux dégâts.
+
+### La chasse automatique
+
+La chasse automatique ne tourne que sur **un seul mob à la fois**, et seulement **pendant que vous êtes sur l'île**.
+Le premier achat la place sur ce mob. Pour la déplacer sur un autre mob déjà amélioré, faites un clic droit sur
+l'amélioration. Une petite barre dans le nom du mob indique le prochain kill automatique.
+
+> [!WARNING]
+> Un mob abattu par la chasse automatique ne rapporte que du butin et une petite part d'expérience de chasse. Il ne
+> compte comme kill nulle part : ni déblocage de mobs, ni classements, ni SkyGrades, ni métier Chasseur, ni missions
+> d'île, ni succès.
 
 ## Les mobs qui réapparaissent
 

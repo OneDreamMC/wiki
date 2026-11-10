@@ -124,8 +124,12 @@ Les effets de zone (marteau, brouteuse, abattage en un coup) et les effets perma
 Régénération, Célérité) s'appliquent automatiquement dès que l'outil est débloqué et, pour les effets, tant que vous
 êtes connecté.
 
-D'autres objets spéciaux existent ailleurs dans le jeu : les **baguettes de construction** et de vente, ainsi que des
-**outils légendaires et mythiques**, s'obtiennent dans les caisses du spawn.
+D'autres objets spéciaux existent ailleurs dans le jeu :
+
+- dans les caisses du spawn : les **baguettes de construction** et de vente, les **arrosoirs de croissance**, qui
+  font pousser d'un coup les cultures autour de vous sur votre île pour un nombre d'utilisations limité, et des **outils légendaires et mythiques** ;
+- dans la boutique AFK (`/afk shop`) : la **boussole au trésor**, qui guide vers un trésor caché que vous n'avez pas
+  encore trouvé et se brise à la trouvaille.
 
 > [!TIP]
 > Les niveaux de métiers conditionnent aussi vos SkyGrades : montez plusieurs métiers en parallèle pour débloquer le

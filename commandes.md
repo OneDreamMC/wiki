@@ -106,6 +106,7 @@ Ces commandes concernent la gestion de votre île. Pour en créer une, consultez
 | `/condense` | — | Compacte en blocs l'objet en main ou tout l'inventaire (`/condense hand`, `/condense inventory`). Grade Excellence. |
 | `/uncondense` | — | Décompacte les blocs en objets. Grade Excellence. |
 | `/autocondense` | — | Active ou coupe le compactage automatique des objets ramassés. Grade Excellence. |
+| `/recup [on\|off]` | — | Active ou coupe le mode récupération : les blocs cassés, les récoltes et le butin des mobs vont directement dans votre inventaire. Grade Légende. |
 
 > [!NOTE]
 > Le prix de `/sell`, les récompenses de la boutique AFK et des animations sont encore en cours de réglage :
